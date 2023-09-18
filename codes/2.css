@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.top {
+    margin-left: auto;
+    margin-right: auto;
+    height: 100px;
+    width: 1000PX;
+    background-color: rgb(96, 239, 108);
+}
+.main {
+    margin: auto;
+    width: 1000px;
+    height: 500px;
+     background-color: rgb(3, 123, 31); 
+}
+
+.footer { 
+    width: 1000px;
+    height: 100px;
+    background-color: rgb(139, 243, 113);
+    margin-left: auto;
+    margin-right: auto;
+}

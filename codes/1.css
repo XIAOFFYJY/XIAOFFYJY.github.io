@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    font-weight: 520;
+    font-family: 微软雅黑;
+}
+
+.nav {
+    width: 1120px;
+    height: 72px;
+    background-color: rgb(203, 255, 192);
+    border-radius: 20px;
+    margin: 20px auto;
+}
+
+.nav>ul>li {
+    float: left;
+    width: 270px;
+    height: 70px;
+    text-align: center;
+}
+
+.nav>ul>li>a {
+    text-align: center;
+    line-height: 72px;
+    font-size: 20px;
+    color: black;
+}
+
+.nav>ul>li>a:hover {
+    color: orange;
+}
+
+ul>span {
+    float: left;
+    line-height: 72px;
+    color: rgb(225, 224, 224);
+    font-weight: 800;
+    font-size: 24px;
+}
+
+
+.box {
+    width: 800px;
+    height: 500px;
+    background-color: rgb(203, 255, 192);
+    margin: 0 auto;
+}
+

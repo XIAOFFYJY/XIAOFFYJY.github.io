@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.top {
+    margin-left: auto;
+    margin-right: auto;
+    height: 40px;
+    width: 1000PX;
+    background-color: rgb(161, 203, 237);
+}
+.main {
+    margin: auto;
+    width: 1000px;
+    height: 500px;
+     background-color: rgb(105, 192, 226); 
+}
+
+.left {
+    float: left;
+    width: 300px;
+    height: 500px;
+     background-color: rgb(33, 114, 185);
+}
+.right {
+    float: left;
+    width: 700px;
+    height: 500px;
+    background-color: rgb(7, 45, 100);
+}  
+.footer { 
+    width: 1000px;
+    height: 60px;
+    background-color: rgb(44, 24, 198);
+    margin-left: auto;
+    margin-right: auto;
+}
